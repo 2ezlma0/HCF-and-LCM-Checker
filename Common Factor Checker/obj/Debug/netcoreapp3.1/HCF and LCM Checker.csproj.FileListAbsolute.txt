@@ -1,0 +1,13 @@
+C:\Users\Admin\Downloads\Common Factor Checker-20220116T110143Z-001\Common Factor Checker\Common Factor Checker\bin\Debug\netcoreapp3.1\HCF and LCM Checker.exe
+C:\Users\Admin\Downloads\Common Factor Checker-20220116T110143Z-001\Common Factor Checker\Common Factor Checker\bin\Debug\netcoreapp3.1\HCF and LCM Checker.deps.json
+C:\Users\Admin\Downloads\Common Factor Checker-20220116T110143Z-001\Common Factor Checker\Common Factor Checker\bin\Debug\netcoreapp3.1\HCF and LCM Checker.runtimeconfig.json
+C:\Users\Admin\Downloads\Common Factor Checker-20220116T110143Z-001\Common Factor Checker\Common Factor Checker\bin\Debug\netcoreapp3.1\HCF and LCM Checker.runtimeconfig.dev.json
+C:\Users\Admin\Downloads\Common Factor Checker-20220116T110143Z-001\Common Factor Checker\Common Factor Checker\bin\Debug\netcoreapp3.1\HCF and LCM Checker.dll
+C:\Users\Admin\Downloads\Common Factor Checker-20220116T110143Z-001\Common Factor Checker\Common Factor Checker\bin\Debug\netcoreapp3.1\HCF and LCM Checker.pdb
+C:\Users\Admin\Downloads\Common Factor Checker-20220116T110143Z-001\Common Factor Checker\Common Factor Checker\obj\Debug\netcoreapp3.1\HCF and LCM Checker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\Common Factor Checker-20220116T110143Z-001\Common Factor Checker\Common Factor Checker\obj\Debug\netcoreapp3.1\HCF and LCM Checker.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\Common Factor Checker-20220116T110143Z-001\Common Factor Checker\Common Factor Checker\obj\Debug\netcoreapp3.1\HCF and LCM Checker.AssemblyInfo.cs
+C:\Users\Admin\Downloads\Common Factor Checker-20220116T110143Z-001\Common Factor Checker\Common Factor Checker\obj\Debug\netcoreapp3.1\HCF and LCM Checker.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Common Factor Checker-20220116T110143Z-001\Common Factor Checker\Common Factor Checker\obj\Debug\netcoreapp3.1\HCF and LCM Checker.dll
+C:\Users\Admin\Downloads\Common Factor Checker-20220116T110143Z-001\Common Factor Checker\Common Factor Checker\obj\Debug\netcoreapp3.1\HCF and LCM Checker.pdb
+C:\Users\Admin\Downloads\Common Factor Checker-20220116T110143Z-001\Common Factor Checker\Common Factor Checker\obj\Debug\netcoreapp3.1\HCF and LCM Checker.genruntimeconfig.cache

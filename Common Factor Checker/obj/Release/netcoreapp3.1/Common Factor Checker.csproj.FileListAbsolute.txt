@@ -1,0 +1,13 @@
+C:\Users\Admin\Downloads\Common Factor Checker-20220116T110143Z-001\Common Factor Checker\Common Factor Checker\bin\Release\netcoreapp3.1\Common Factor Checker.exe
+C:\Users\Admin\Downloads\Common Factor Checker-20220116T110143Z-001\Common Factor Checker\Common Factor Checker\bin\Release\netcoreapp3.1\Common Factor Checker.deps.json
+C:\Users\Admin\Downloads\Common Factor Checker-20220116T110143Z-001\Common Factor Checker\Common Factor Checker\bin\Release\netcoreapp3.1\Common Factor Checker.runtimeconfig.json
+C:\Users\Admin\Downloads\Common Factor Checker-20220116T110143Z-001\Common Factor Checker\Common Factor Checker\bin\Release\netcoreapp3.1\Common Factor Checker.runtimeconfig.dev.json
+C:\Users\Admin\Downloads\Common Factor Checker-20220116T110143Z-001\Common Factor Checker\Common Factor Checker\bin\Release\netcoreapp3.1\Common Factor Checker.dll
+C:\Users\Admin\Downloads\Common Factor Checker-20220116T110143Z-001\Common Factor Checker\Common Factor Checker\bin\Release\netcoreapp3.1\Common Factor Checker.pdb
+C:\Users\Admin\Downloads\Common Factor Checker-20220116T110143Z-001\Common Factor Checker\Common Factor Checker\obj\Release\netcoreapp3.1\Common Factor Checker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\Common Factor Checker-20220116T110143Z-001\Common Factor Checker\Common Factor Checker\obj\Release\netcoreapp3.1\Common Factor Checker.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\Common Factor Checker-20220116T110143Z-001\Common Factor Checker\Common Factor Checker\obj\Release\netcoreapp3.1\Common Factor Checker.AssemblyInfo.cs
+C:\Users\Admin\Downloads\Common Factor Checker-20220116T110143Z-001\Common Factor Checker\Common Factor Checker\obj\Release\netcoreapp3.1\Common Factor Checker.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Common Factor Checker-20220116T110143Z-001\Common Factor Checker\Common Factor Checker\obj\Release\netcoreapp3.1\Common Factor Checker.dll
+C:\Users\Admin\Downloads\Common Factor Checker-20220116T110143Z-001\Common Factor Checker\Common Factor Checker\obj\Release\netcoreapp3.1\Common Factor Checker.pdb
+C:\Users\Admin\Downloads\Common Factor Checker-20220116T110143Z-001\Common Factor Checker\Common Factor Checker\obj\Release\netcoreapp3.1\Common Factor Checker.genruntimeconfig.cache

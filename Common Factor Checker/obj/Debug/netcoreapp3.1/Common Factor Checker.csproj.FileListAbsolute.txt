@@ -1,0 +1,27 @@
+\\eastnorfolk.ac.uk\Students\Home\start2021\59572\VSC\projects\CBlock\Common Factor Checker\Common Factor Checker\bin\Debug\netcoreapp3.1\Common Factor Checker.exe
+\\eastnorfolk.ac.uk\Students\Home\start2021\59572\VSC\projects\CBlock\Common Factor Checker\Common Factor Checker\bin\Debug\netcoreapp3.1\Common Factor Checker.deps.json
+\\eastnorfolk.ac.uk\Students\Home\start2021\59572\VSC\projects\CBlock\Common Factor Checker\Common Factor Checker\bin\Debug\netcoreapp3.1\Common Factor Checker.runtimeconfig.json
+\\eastnorfolk.ac.uk\Students\Home\start2021\59572\VSC\projects\CBlock\Common Factor Checker\Common Factor Checker\bin\Debug\netcoreapp3.1\Common Factor Checker.runtimeconfig.dev.json
+\\eastnorfolk.ac.uk\Students\Home\start2021\59572\VSC\projects\CBlock\Common Factor Checker\Common Factor Checker\bin\Debug\netcoreapp3.1\Common Factor Checker.dll
+\\eastnorfolk.ac.uk\Students\Home\start2021\59572\VSC\projects\CBlock\Common Factor Checker\Common Factor Checker\bin\Debug\netcoreapp3.1\Common Factor Checker.pdb
+\\eastnorfolk.ac.uk\Students\Home\start2021\59572\VSC\projects\CBlock\Common Factor Checker\Common Factor Checker\obj\Debug\netcoreapp3.1\Common Factor Checker.csprojAssemblyReference.cache
+\\eastnorfolk.ac.uk\Students\Home\start2021\59572\VSC\projects\CBlock\Common Factor Checker\Common Factor Checker\obj\Debug\netcoreapp3.1\Common Factor Checker.AssemblyInfoInputs.cache
+\\eastnorfolk.ac.uk\Students\Home\start2021\59572\VSC\projects\CBlock\Common Factor Checker\Common Factor Checker\obj\Debug\netcoreapp3.1\Common Factor Checker.AssemblyInfo.cs
+\\eastnorfolk.ac.uk\Students\Home\start2021\59572\VSC\projects\CBlock\Common Factor Checker\Common Factor Checker\obj\Debug\netcoreapp3.1\Common Factor Checker.csproj.CoreCompileInputs.cache
+\\eastnorfolk.ac.uk\Students\Home\start2021\59572\VSC\projects\CBlock\Common Factor Checker\Common Factor Checker\obj\Debug\netcoreapp3.1\Common Factor Checker.dll
+\\eastnorfolk.ac.uk\Students\Home\start2021\59572\VSC\projects\CBlock\Common Factor Checker\Common Factor Checker\obj\Debug\netcoreapp3.1\Common Factor Checker.pdb
+\\eastnorfolk.ac.uk\Students\Home\start2021\59572\VSC\projects\CBlock\Common Factor Checker\Common Factor Checker\obj\Debug\netcoreapp3.1\Common Factor Checker.genruntimeconfig.cache
+C:\Users\Admin\Downloads\Common Factor Checker-20220116T110143Z-001\Common Factor Checker\Common Factor Checker\bin\Debug\netcoreapp3.1\Common Factor Checker.exe
+C:\Users\Admin\Downloads\Common Factor Checker-20220116T110143Z-001\Common Factor Checker\Common Factor Checker\bin\Debug\netcoreapp3.1\Common Factor Checker.deps.json
+C:\Users\Admin\Downloads\Common Factor Checker-20220116T110143Z-001\Common Factor Checker\Common Factor Checker\bin\Debug\netcoreapp3.1\Common Factor Checker.runtimeconfig.json
+C:\Users\Admin\Downloads\Common Factor Checker-20220116T110143Z-001\Common Factor Checker\Common Factor Checker\bin\Debug\netcoreapp3.1\Common Factor Checker.runtimeconfig.dev.json
+C:\Users\Admin\Downloads\Common Factor Checker-20220116T110143Z-001\Common Factor Checker\Common Factor Checker\bin\Debug\netcoreapp3.1\Common Factor Checker.dll
+C:\Users\Admin\Downloads\Common Factor Checker-20220116T110143Z-001\Common Factor Checker\Common Factor Checker\bin\Debug\netcoreapp3.1\Common Factor Checker.pdb
+C:\Users\Admin\Downloads\Common Factor Checker-20220116T110143Z-001\Common Factor Checker\Common Factor Checker\obj\Debug\netcoreapp3.1\Common Factor Checker.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\Common Factor Checker-20220116T110143Z-001\Common Factor Checker\Common Factor Checker\obj\Debug\netcoreapp3.1\Common Factor Checker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\Common Factor Checker-20220116T110143Z-001\Common Factor Checker\Common Factor Checker\obj\Debug\netcoreapp3.1\Common Factor Checker.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\Common Factor Checker-20220116T110143Z-001\Common Factor Checker\Common Factor Checker\obj\Debug\netcoreapp3.1\Common Factor Checker.AssemblyInfo.cs
+C:\Users\Admin\Downloads\Common Factor Checker-20220116T110143Z-001\Common Factor Checker\Common Factor Checker\obj\Debug\netcoreapp3.1\Common Factor Checker.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Common Factor Checker-20220116T110143Z-001\Common Factor Checker\Common Factor Checker\obj\Debug\netcoreapp3.1\Common Factor Checker.dll
+C:\Users\Admin\Downloads\Common Factor Checker-20220116T110143Z-001\Common Factor Checker\Common Factor Checker\obj\Debug\netcoreapp3.1\Common Factor Checker.pdb
+C:\Users\Admin\Downloads\Common Factor Checker-20220116T110143Z-001\Common Factor Checker\Common Factor Checker\obj\Debug\netcoreapp3.1\Common Factor Checker.genruntimeconfig.cache
